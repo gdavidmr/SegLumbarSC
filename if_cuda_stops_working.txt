@@ -1,0 +1,5 @@
+lsof /dev/nvidia-uvm
+sudo rmmod nvidia_uvm
+sudo modprobe nvidia_uvm
+
+conda activate /home/sarvagya-pc/Desktop/spinalcordtoolbox/python/envs/venv_sct

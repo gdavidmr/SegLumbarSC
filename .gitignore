@@ -1,0 +1,13 @@
+# ignore all .asv files
+*.asv
+
+# ignore all pytorch model files
+*.pth
+
+# ignore all .pyc files
+.pyc
+
+# ignore all .jpg files
+.jpg
+
+/home/sarvagya-pc/Desktop/Balgrist_neuroimg/UNETR/test
